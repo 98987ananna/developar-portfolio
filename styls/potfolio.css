@@ -1,0 +1,36 @@
+nav{
+    display: flex;
+}
+body{
+    
+        font-family: "Fira Sans Extra Condensed", sans-serif;
+        font-weight: 800;
+        
+      
+      
+}
+.navtitle{
+    color: #181818;
+    font-family: open sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 800; }
+.textprimary{
+    color: #FD6E0A;
+}
+nav >ul{
+    display: flex;
+
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+color: #474747;
+}
+.btnprimary{
+    border-radius: 5px;
+    background: #FD6E0A;
+}
